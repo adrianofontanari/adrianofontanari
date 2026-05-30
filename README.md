@@ -32,6 +32,16 @@ I'm currently **PM on the Tech Risk team at [Qomodo](https://www.qomodo.me/)**, 
 | 🧬 **Cindy** | My digital twin: an agentic layer that knows me, acts for me, and grows with me — the natural evolution of YourOS. Built on Claude Code, ElevenLabs, and Obsidian. → [adrianofontanari.com](https://adrianofontanari.com/) |
 | 🩻 **GutenbergAI** | A GenAI medical copilot that turns hours of clinical note-writing into minutes. Co-led the MVP. |
 
+## Just for fun 🎨
+
+I also bring a **creative side and a positive attitude to work** — sometimes
+that means shipping something intentionally silly. The best work is also a bit
+playful, and humor is how I keep the engine running on long projects.
+
+| Project | What it is |
+| --- | --- |
+| 👴 **[umarell](https://github.com/adrianofontanari/umarell)** | A VS Code extension that puts an Italian _umarell_ — the retired old man who watches construction sites with his hands behind his back — into your sidebar, with a real construction webcam and bilingual mutterings, while Claude/Copilot does the actual coding. A vibe-coded funny solution, built end-to-end with **Claude Opus**. |
+
 ## Where to find me
 
 - 🌐 Website & writing — **[adrianofontanari.com](https://adrianofontanari.com/)**
