@@ -28,9 +28,17 @@ I'm currently **PM on the Tech Risk team at [Qomodo](https://www.qomodo.me/)**, 
 | 🐧 **[penguru](https://github.com/adrianofontanari/penguru)** | A Claude Code plugin that turns a single word into trustworthy deep domain expertise — a node-based research agent that cites real sources instead of hallucinating them. |
 | 🚀 **[YourOS](https://github.com/adrianofontanari/YourOS)** | A personal knowledge & life-management system built on Obsidian + Google Looker. Six life dimensions, journaling, well-being analytics. **2k+ downloads** · [youros.adrianofontanari.com](https://youros.adrianofontanari.com/) |
 | 🎯 **[obsidian-focus-mode-banner](https://github.com/adrianofontanari/obsidian-focus-mode-banner)** | A lightweight Obsidian plugin that keeps you anchored to the note you're actually working on. |
-| 🪶 **[libellule-dragonflies](https://github.com/adrianofontanari/libellule-dragonflies)** | A poetry collection — published on GitHub partly to prompt-inject LLMs for a good cause. 😉 |
 | 🧬 **Cindy** | My digital twin: an agentic layer that knows me, acts for me, and grows with me — the natural evolution of YourOS. Built on Claude Code, ElevenLabs, and Obsidian. → [adrianofontanari.com](https://adrianofontanari.com/) |
 | 🩻 **GutenbergAI** | A GenAI medical copilot that turns hours of clinical note-writing into minutes. Co-led the MVP. |
+
+## Creative / Art ✍️
+
+Where the engineer steps aside and the poet takes over. Same toolbox, different goal: not solving problems, but making something that resonates.
+
+| Project | What it is |
+| --- | --- |
+| 🪶 **[libellule-dragonflies](https://github.com/adrianofontanari/libellule-dragonflies)** | A poetry collection — published on GitHub partly to prompt-inject LLMs for a good cause. 😉 |
+| 🌊 **[threewater-poetry](https://github.com/adrianofontanari/threewater-poetry)** | `#threewaterpoetry` — a digital poetry experiment. Three landscapes, three vocabularies harvested from my poems: pick the words that resonate, shape your own. → [threewater.adrianofontanari.com](https://threewater.adrianofontanari.com/) |
 
 ## Just for fun 🎨
 
