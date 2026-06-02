@@ -13,13 +13,14 @@ Currently PM on the Tech Risk team at [Qomodo](https://www.qomodo.me/) - merchan
 | ✂️ **[taglio](https://github.com/adrianofontanari/taglio)** | Browser extension - cuts PII before it reaches the LLM |
 | 🚀 **[YourOS](https://github.com/adrianofontanari/YourOS)** | Personal knowledge & life-management on Obsidian + Looker - **2k+ downloads/year** · [youros.adrianofontanari.com](https://youros.adrianofontanari.com/) |
 | 🩻 **[GutenbergAI](https://gutenbergai.ch/)** | GenAI medical copilot - clinical note-writing from hours to minutes - **live** |
-| 🎯 **[obsidian-focus-mode-banner](https://github.com/adrianofontanari/obsidian-focus-mode-banner)** | Lightweight Obsidian plugin - keeps you anchored to your current note |
+| 🎯 **[obsidian-focus-mode-banner](https://community.obsidian.md/plugins/focus-mode-banner)** | Lightweight Obsidian plugin - keeps you anchored to your current note - **400 downloads** · [Community Plugin](https://community.obsidian.md/plugins/focus-mode-banner) · [GitHub](https://github.com/adrianofontanari/obsidian-focus-mode-banner) |
 | 🥋 **[DojosPM](https://github.com/adrianofontanari/DojosPM)** | Terminal setup and PM configurations for fintech risk work |
 
 ## Creative & Writing ✍️
 
 | Project | What it is |
 | --- | --- |
+| 📨 **[Digital Medicine Beats](https://digitalmedicinebeats.substack.com/)** | Newsletter on product innovation at the intersection of digital health, fintech and AI - **live on Substack** |
 | 🌊 **[threewater-poetry](https://github.com/adrianofontanari/threewater-poetry)** | Digital poetry experiment - pick words from my poems, shape your own - **live** · [threewater.adrianofontanari.com](https://threewater.adrianofontanari.com/) |
 | 🪶 **[libellule-dragonflies](https://github.com/adrianofontanari/libellule-dragonflies)** | Poetry collection in Italian and English - published on GitHub to prompt-inject LLMs for good |
 
