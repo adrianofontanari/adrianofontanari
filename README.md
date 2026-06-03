@@ -11,7 +11,7 @@ Currently PM on the Tech Risk team at [Qomodo](https://www.qomodo.me/) - merchan
 | 🧬 **Cindy** | My digital twin - agentic layer built on Claude Code, ElevenLabs, Obsidian → [adrianofontanari.com](https://adrianofontanari.com/) |
 | 🐧 **[penguru](https://github.com/adrianofontanari/penguru)** | Claude Code plugin - turns a word into source-cited deep domain expertise |
 | ✂️ **[taglio](https://github.com/adrianofontanari/taglio)** | Browser extension - cuts PII before it reaches the LLM |
-| 🚀 **[YourOS](https://github.com/adrianofontanari/YourOS)** | Personal knowledge & life-management on Obsidian + Looker - **2k+ downloads/year** · [youros.adrianofontanari.com](https://youros.adrianofontanari.com/) |
+| 🚀 **[YourOS](https://github.com/adrianofontanari/YourOS)** | Personal knowledge & life-management on Obsidian + Looker - **1.5k+ downloads/year** · [youros.adrianofontanari.com](https://youros.adrianofontanari.com/) |
 | 🩻 **[GutenbergAI](https://gutenbergai.ch/)** | GenAI medical copilot - clinical note-writing from hours to minutes - **live** |
 | 🎯 **[obsidian-focus-mode-banner](https://community.obsidian.md/plugins/focus-mode-banner)** | Lightweight Obsidian plugin - keeps you anchored to your current note - **400 downloads** · [Community Plugin](https://community.obsidian.md/plugins/focus-mode-banner) · [GitHub](https://github.com/adrianofontanari/obsidian-focus-mode-banner) |
 | 🥋 **[DojosPM](https://github.com/adrianofontanari/DojosPM)** | Terminal setup and PM configurations for fintech risk work |
