@@ -10,8 +10,9 @@ I work where **AI errors have real consequences** — credit denied, fraud undet
 
 | Project | What it is |
 | --- | --- |
-| 🛡️ **[guardrail](https://github.com/adrianofontanari/guardrail)** | Terminal command center for risk PM workflow — skills + commands + Jira/Slack/Confluence integrations. Dual signal: risk guardrails in fintech + AI safety. |
+| 🛡️ **[guardrail](https://github.com/adrianofontanari/guardrail)** | Terminal command center for risk PM workflow — skills + commands + Jira/Slack/Confluence integrations. Name is intentional: same word used in fintech risk and in AI safety. |
 | ✂️ **[taglio](https://github.com/adrianofontanari/taglio)** | Browser extension — cuts PII before it reaches the LLM. Local-only, GDPR-friendly. |
+| 🐧 **[penguru](https://github.com/adrianofontanari/penguru)** | Claude Code plugin — turns a single concept into source-cited deep domain expertise. Node-based research agent. Exploration. |
 | 🧬 **[Cindy](https://cindy.adrianofontanari.com)** | A personal AI agentic layer that **lives on my terminal** — Claude Code + ElevenLabs + Obsidian. Knows me, acts for me, remembers across sessions. Private core, public architecture. |
 
 ## Released 🚀
