@@ -2,7 +2,7 @@
 
 **PM who builds.** FinTech risk by day, AI agents and dev tools the rest of the time.
 
-Currently PM on the Tech Risk team at [Qomodo](https://www.qomodo.me/) - merchant underwriting, AML, consumer risk. Before FinTech: 6+ years in digital health (Alira Healthand VC (Nina Capital. MSc Innovation Management (Trento + Sant'Anna, Honors), MIT-HMS, EIT Digital Health Rising Star 2021.
+Currently PM on the Tech Risk team at [Qomodo](https://www.qomodo.me/) - merchant underwriting, AML, consumer risk. Before FinTech: 6+ years in digital health (Alira Healtha nd VC (Nina Capital). MSc Innovation Management (Trento + Sant'Anna, Honors), MIT-HMS, EIT Digital Health Rising Star 2021.
 
 ## What I'm building 🛠️
 
