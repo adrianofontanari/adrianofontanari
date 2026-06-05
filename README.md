@@ -2,7 +2,7 @@
 
 **PM who builds.** Risk in fintech by day, AI agents and safeguards the rest of the time.
 
-Currently PM on the Tech Risk team at [Qomodo](https://www.qomodo.me/) — merchant underwriting, AML, consumer risk. Before fintech: 6+ years in digital health (Alira Health, €1.5M launch) and VC (Nina Capital, €1.2M investment in Methinks.AI). MSc Innovation Management (Trento + Sant'Anna, Honors), MIT-HMS, EIT Digital Health Rising Star 2021.
+Currently PM on the Tech Risk team at [Qomodo](https://www.qomodo.me/) — merchant underwriting, AML, consumer risk. Before fintech: 6+ years in digital health (Alira Health) and VC (Nina Capital). MSc Innovation Management (Trento + Sant'Anna, Honors), MIT-HMS, EIT Digital Health Rising Star 2021.
 
 I work where **AI errors have real consequences** — credit denied, fraud undetected, compliance violated.
 
