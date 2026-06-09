@@ -6,35 +6,35 @@ Currently PM on the Tech Risk team at [Qomodo](https://www.qomodo.me/) — merch
 
 I work where **AI errors have real consequences** — credit denied, fraud undetected, compliance violated.
 
-## Currently building 🛠️
+## Shipped 🚀
 
 | Project | What it is |
 | --- | --- |
-| 🛡️ **[guardrail](https://github.com/adrianofontanari/guardrail)** | Terminal command center for risk PM workflow — skills + commands + Jira/Slack/Confluence integrations. Name is intentional: same word used in fintech risk and in AI safety. |
-| ✂️ **[taglio](https://github.com/adrianofontanari/taglio)** | Browser extension — cuts PII before it reaches the LLM. Local-only, GDPR-friendly. |
-| 🐧 **[penguru](https://github.com/adrianofontanari/penguru)** | Claude Code plugin — turns a single concept into source-cited deep domain expertise. Node-based research agent. Exploration. |
-| 🧬 **[Cindy](https://cindy.adrianofontanari.com)** | A personal AI agentic layer that **lives on my terminal** — Claude Code + ElevenLabs + Obsidian. Knows me, acts for me, remembers across sessions. Private core, public architecture. |
-
-## Released 🚀
-
-| Project | What it is |
-| --- | --- |
-| 🚀 **[YourOS](https://github.com/adrianofontanari/YourOS)** | Personal knowledge & life-management system on Obsidian + Looker — **2k+ downloads/year** · [youros.adrianofontanari.com](https://youros.adrianofontanari.com/) |
+| 🚀 **[YourOS](https://github.com/adrianofontanari/YourOS)** | Personal knowledge & life-management system on Obsidian + Looker — **2k+ downloads** · [youros.adrianofontanari.com](https://youros.adrianofontanari.com/) |
 | 🎯 **[obsidian-focus-mode-banner](https://github.com/adrianofontanari/obsidian-focus-mode-banner)** | Lightweight Obsidian plugin — keeps you anchored to your current note. **400 downloads** · [Community Plugin](https://community.obsidian.md/plugins/focus-mode-banner) |
+| 🌊 **[threewater-poetry](https://github.com/adrianofontanari/threewater-poetry)** | Digital poetry experiment — pick words from my poems, shape your own. **Live** · [threewater.adrianofontanari.com](https://threewater.adrianofontanari.com/) |
+| 👴 **[umarell](https://github.com/adrianofontanari/umarell)** | VS Code extension — Italian umarell watches construction sites in your sidebar while Claude does the coding. Vibe-coded, and says so. **VS Marketplace.** |
+
+## Building now 🛠️
+
+| Project | What it is | Status |
+| --- | --- | --- |
+| ✂️ **[taglio](https://github.com/adrianofontanari/taglio)** | Browser extension — cuts PII out of your prompts before they reach the LLM. Local-only, GDPR-friendly. | Spec done · Phase 0 in build (regex detection, chatgpt.com) — June 2026 |
+
+## Explorations 🧪
+
+| Project | What it is | Status |
+| --- | --- | --- |
+| 🧬 **[Cindy](https://cindy.adrianofontanari.com)** | Personal AI agentic layer that **lives on my terminal** — Claude Code + ElevenLabs + Obsidian. Knows me, acts for me, remembers across sessions. | Running daily · core private, architecture writeups planned |
+| 🛡️ **[guardrail](https://github.com/adrianofontanari/guardrail)** | Terminal command center for risk PM workflow. Name is intentional: same word used in fintech risk and in AI safety. | Personal tooling · public repo = concept + structure |
+| 🐧 **[penguru](https://github.com/adrianofontanari/penguru)** | Claude Code plugin — turns a single concept into source-cited deep domain expertise. Node-based research agent. | Paused |
 
 ## Writing ✍️
 
 | Project | What it is |
 | --- | --- |
-| 📨 **[Adriano Fontanari Notes](https://digitalmedicinebeats.substack.com/)** | Personal newsletter on AI safety, risk in decision systems, agentic product design. **Live on Substack.** |
-| 🌊 **[threewater-poetry](https://github.com/adrianofontanari/threewater-poetry)** | Digital poetry experiment — pick words from my poems, shape your own. **Live** · [threewater.adrianofontanari.com](https://threewater.adrianofontanari.com/) |
+| 📨 **[Adriano Fontanari Notes](https://digitalmedicinebeats.substack.com/)** | Six years of essays on digital health, product and data. Refocusing on AI safety × fintech risk — first essay in progress. |
 | 🪶 **[libellule-dragonflies](https://github.com/adrianofontanari/libellule-dragonflies)** | Poetry collection in Italian and English — published on GitHub to prompt-inject LLMs for good. |
-
-## Just for fun 🎨
-
-| Project | What it is |
-| --- | --- |
-| 👴 **[umarell](https://github.com/adrianofontanari/umarell)** | VS Code extension — Italian umarell watches construction sites in your sidebar while Claude does the coding. **VS Marketplace.** |
 
 ## Find me
 
