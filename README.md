@@ -1,6 +1,5 @@
 # Hi, I'm Adriano 👋
 
-**Risk Product Manager at Qomodo. FinTech, Trust & Safety. Poet.**
 
 Knack for complex challenges that require a UX-centric and hands-on approach.
 
@@ -20,7 +19,7 @@ Strong experience working remote-first across EU/US teams.
 | Project | What it is |
 | --- | --- |
 | 🚀 **[YourOS](https://github.com/adrianofontanari/YourOS)** | Personal knowledge & life-management system on Obsidian + Looker. ~1.5k downloads/year. [youros.adrianofontanari.com](https://youros.adrianofontanari.com/) |
-| 🎯 **[obsidian-focus-mode-banner](https://github.com/adrianofontanari/obsidian-focus-mode-banner)** | Lightweight Obsidian plugin — keeps you anchored to your current note. 400 downloads. [Community Plugin](https://community.obsidian.md/plugins/focus-mode-banner) |
+| 🎯 **[obsidian-focus-mode-banner](https://github.com/adrianofontanari/obsidian-focus-mode-banner)** | Lightweight Obsidian plugin — keeps you anchored to your current note. 400+ downloads. [Community Plugin](https://community.obsidian.md/plugins/focus-mode-banner) |
 | 🌊 **[threewater-poetry](https://github.com/adrianofontanari/threewater-poetry)** | Digital poetry experiment — pick words from my poems, shape your own. Live. [threewater.adrianofontanari.com](https://threewater.adrianofontanari.com/) |
 | 👴 **[umarell](https://github.com/adrianofontanari/umarell)** | VS Code extension — Italian umarell watches construction sites in your sidebar while Claude does the coding. Vibe-coded, and says so. VS Marketplace. |
 
