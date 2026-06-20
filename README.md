@@ -19,6 +19,8 @@ Born in the Italian Alps, based in Milan, international soul. Strong experience 
 
 ## Projects
 
+> 🤖 Written and kept current by Cindy, my Digital Twin.
+
 ### 🛡️ Risk, Trust & Safety
 
 Ensuring critical systems are trustworthy at the intersection of FinTech & AI.
