@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cover.png" alt="Adriano Fontanari. PM who builds. Risk in fintech + AI agents and safeguards." width="100%">
+  <img src="assets/adriano_fontanari_cover_2026.png" alt="Adriano Fontanari. PM who builds. Risk in fintech + AI agents and safeguards." width="100%">
 </p>
 
 # Hi, I'm Adriano 👋
