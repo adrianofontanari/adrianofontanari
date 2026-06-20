@@ -30,7 +30,7 @@ Ensuring critical systems are trustworthy at the intersection of FinTech & AI.
 
 ### 🔧 Things I build & ship
 
-I build the things I spec, not only write them down.
+Translating ideas into products the world can use.
 
 | Project | What it is | Status |
 | --- | --- | --- |
