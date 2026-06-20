@@ -19,7 +19,7 @@ Born in the Italian Alps, based in Milan, international soul. Strong experience 
 
 ## Projects
 
-> 🤖 This section is kept up to date by Cindy, my Digital Twin.
+> 🤖 Written and kept current by Cindy, my Digital Twin.
 
 ### 🛡️ Risk, Trust & Safety
 
