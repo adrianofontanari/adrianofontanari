@@ -6,7 +6,7 @@
 
 A broken system in fintech can mean no access to credit to the ones that deserve it in the best case, or fraudulent and criminal finances in the worst.
 
-I am there to make this never happen.
+I strive to keep this from happening.
 
 Now working in [Qomodo](https://www.qomodo.me/), a payment provider (BNPL, POS) for everyday unexpected expenses (e.g. dentist), leading and owning the tech risk team roadmap, working with heads of credit risk, merchant underwriting and AML/compliance.
 
