@@ -37,7 +37,7 @@ Translating ideas into products the world can use.
 | Project | What it is | Status |
 | --- | --- | --- |
 | 🧬 **[Cindy](https://cindy.adrianofontanari.com)** | Personal AI agentic layer that **lives on my terminal**: Claude Code + ElevenLabs + Obsidian. Knows me, acts for me, remembers across sessions. | Running daily · core private, architecture writeups planned |
-| 🐧 **[penguru](https://github.com/adrianofontanari/penguru)** | Claude Code plugin that turns a single concept into source-cited deep domain expertise. Node-based research agent. | Paused |
+| 🐧 **[penguru](https://github.com/adrianofontanari/penguru)** | Claude Code plugin — a trusted snapshot research agent: one topic into a source-cited, hallucination-free orientation (definitions, market, regulation, patents, people) in 3 / 8 / 12-min depth modes. | Live |
 | 🚀 **[YourOS](https://github.com/adrianofontanari/YourOS)** | Personal knowledge & life-management system on Obsidian + Looker, now evolved into Cindy. [youros.adrianofontanari.com](https://youros.adrianofontanari.com/) | Live (no longer maintained) · ~1.5k downloads/year since 2024 |
 | 👴 **[umarell](https://github.com/adrianofontanari/umarell)** | VS Code extension: an Italian umarell watches construction sites in your sidebar while Claude does the coding. Vibe-coded, and says so. | Live · VS Marketplace |
 | 🎯 **[obsidian-focus-mode-banner](https://github.com/adrianofontanari/obsidian-focus-mode-banner)** | Lightweight Obsidian plugin that keeps you anchored to your current note. [Community Plugin](https://community.obsidian.md/plugins/focus-mode-banner) | Live · 400+ downloads |
