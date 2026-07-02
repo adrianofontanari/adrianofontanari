@@ -27,7 +27,7 @@ Ensuring critical systems are trustworthy at the intersection of FinTech & AI.
 
 | Project | What it is | Status |
 | --- | --- | --- |
-| ✂️ **[taglio](https://github.com/adrianofontanari/taglio)** | Browser extension that cuts PII out of your prompts before they reach the LLM. Local-only, GDPR-friendly. | v0.1 in review on Chrome Web Store · regex detection, chatgpt.com · June 2026 |
+| ✂️ **[taglio](https://chromewebstore.google.com/detail/taglio/kcfjalbmcmeonhkggpmaijocipffnkpn)** | Browser extension that cuts PII out of your prompts before they reach the LLM. Local-only, GDPR-friendly. | v0.1 live on Chrome Web Store · regex detection, chatgpt.com · shipped June 2026 |
 | 🛡️ **[guardrail](https://github.com/adrianofontanari/guardrail)** | Terminal command center for risk PM workflow. | Personal tooling · public repo = concept + structure |
 
 ### 🔧 Things I build & ship
