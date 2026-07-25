@@ -4,7 +4,7 @@
 
 # Hi, I'm Adriano 👋
 
-I turn complex requirements into digital products and systems that let a business grow and that people can trust.
+I turn complex requirements into trusted digital products and systems that make businesses grow.
 
 Now working in [Qomodo](https://www.qomodo.me/), a payment provider (BNPL, POS) for everyday unexpected expenses (e.g. dentist), leading the tech risk team roadmap, working with heads of credit risk, merchant underwriting and AML/compliance.
 
