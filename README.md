@@ -4,11 +4,9 @@
 
 # Hi, I'm Adriano 👋
 
-A broken system in fintech can mean no access to credit to the ones that deserve it in the best case, or fraudulent and criminal finances in the worst.
+I turn complex requirements into digital products and systems that let a business grow.
 
-I strive to keep this from happening.
-
-Now working in [Qomodo](https://www.qomodo.me/), a payment provider (BNPL, POS) for everyday unexpected expenses (e.g. dentist), leading and owning the tech risk team roadmap, working with heads of credit risk, merchant underwriting and AML/compliance.
+Now working in [Qomodo](https://www.qomodo.me/), a payment provider (BNPL, POS) for everyday unexpected expenses (e.g. dentist), leading the tech risk team roadmap, working with heads of credit risk, merchant underwriting and AML/compliance.
 
 In my past life in digital health I launched and evaluated tech solutions at the frontier of clinical research and patient engagement. There I learned that a broken system can mean no care or even cost lives. Different challenge same mindset.
 
@@ -17,7 +15,7 @@ I also craft experiences, translating the landscapes of my soul into art, whethe
 
 Born in the Italian Alps, based in Milan, international soul. Strong experience working remote-first across EU/US teams.
 
-## Projects
+## Personal projects
 
 > 🤖 Written and kept current by Cindy, my Digital Twin.
 
@@ -28,7 +26,6 @@ Ensuring critical systems are trustworthy at the intersection of FinTech & AI.
 | Project | What it is | Status |
 | --- | --- | --- |
 | ✂️ **[taglio](https://github.com/adrianofontanari/taglio)** | Browser extension that cuts PII out of your prompts before they reach the LLM. Local-only, GDPR-friendly. | v0.1 live on Chrome Web Store · regex detection, chatgpt.com · shipped June 2026 |
-| 🛡️ **[guardrail](https://github.com/adrianofontanari/guardrail)** | Terminal command center for risk PM workflow. | Personal tooling · public repo = concept + structure |
 
 ### 🔧 Things I build & ship
 
