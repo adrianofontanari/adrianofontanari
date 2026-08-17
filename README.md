@@ -8,7 +8,7 @@ I turn complex requirements into trusted digital products and systems that make 
 
 Now working in [Qomodo](https://www.qomodo.me/), a payment provider (BNPL, POS) for everyday unexpected expenses (e.g. dentist), leading the tech risk team roadmap, working with heads of credit risk, merchant underwriting and AML/compliance.
 
-In my past life in digital health I launched and evaluated tech solutions at the frontier of clinical research and patient engagement. There I learned that a broken system can mean no care or even cost lives. Different challenge same mindset (protect people).
+In my past life in digital health I launched and evaluated tech solutions at the frontier of clinical research and patient engagement. There I learned that a broken system can mean no care or even cost lives. Different challenge, same mindset (protect people).
 
 Six years of essays on product and data, now refocusing on risk and trust in decision systems.
 I also craft experiences, translating the landscapes of my soul into art, whether through poetry, theatre improvisation, or storytelling - donating what I see to those who haven't found those words yet.
