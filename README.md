@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/adriano_fontanari_cover_2026.png" alt="Adriano Fontanari. PM who builds. Risk in fintech + AI agents and safeguards." width="100%">
+  <img src="assets/adriano_fontanari_cover_2026.png" alt="Night skyline with the Golden Gate bridge and Alpine mountains, a penguin wearing headphones, and the words Risk, Product Management, Trust &amp; Safety, Creativity &amp; Innovation, Kindness, AI." width="100%">
 </p>
 
 # Hi, I'm Adriano 👋
