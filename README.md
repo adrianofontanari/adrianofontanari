@@ -10,7 +10,7 @@ Now working at [Qomodo](https://www.qomodo.me/), a payment provider (BNPL, POS) 
 
 I started in digital health, launching and evaluating tech solutions for clinical research and patient engagement. There I learned that a broken system can mean no care or even cost lives.
 
-As a product builder at heart, I love using my creative product and systems thinking skills in my spare time. The latest result is [Casa](https://casa.adrianofontanari.com), a cozy pixel-art personal OS for your second brain, free as an Obsidian plugin.
+As a product builder at heart, I love using my creative product and systems thinking skills in my spare time. The latest result is [Casa](https://casa.adrianofontanari.com), the engine to build your cozy digital home, free as an Obsidian plugin.
 
 Six years of essays on product and data, a space where I share my notes on what I learn along the way. I also craft experiences, translating the landscapes of my soul into art, whether through poetry, theatre improvisation, or storytelling, donating what I see to those who haven't found those words yet.
 
@@ -34,7 +34,7 @@ Translating ideas into products the world can use.
 
 | Project | What it is | Status |
 | --- | --- | --- |
-| 🏠 **[Casa](https://casa.adrianofontanari.com)** | A cozy pixel-art personal OS for your second brain, free as an Obsidian plugin. | Live |
+| 🏠 **[Casa](https://casa.adrianofontanari.com)** | The engine to build your cozy digital home, free as an Obsidian plugin. | Live |
 | 🧬 **[Cindy](https://cindy.adrianofontanari.com)** | Personal AI agentic layer that **lives on my terminal**: Claude Code + ElevenLabs + Obsidian. Knows me, acts for me, remembers across sessions. | Running daily · core private, architecture writeups planned |
 | 🐧 **[penguru](https://github.com/adrianofontanari/penguru)** | Claude Code plugin — a trusted snapshot research agent: one topic into a source-cited, hallucination-free orientation (definitions, market, regulation, patents, people) in 3 / 8 / 12-min depth modes. | Live |
 | 🚀 **[YourOS](https://github.com/adrianofontanari/YourOS)** | Personal knowledge & life-management system on Obsidian + Looker, now evolved into Cindy. [youros.adrianofontanari.com](https://youros.adrianofontanari.com/) | Live (no longer maintained) · 5k+ downloads since 2024 |
