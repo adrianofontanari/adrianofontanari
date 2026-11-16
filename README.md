@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/adriano_fontanari_cover_2026.png" alt="Night skyline with the Golden Gate bridge and Alpine mountains, Pingu, a crocheted plush penguin in pixel art, and the words Product Management, AI-native Builder, Digital Health, Tech Risk in FinTech, Kindness, Creativity &amp; Innovation." width="100%">
+  <img src="assets/adriano_fontanari_banner_2026.png" alt="Night sky over the Golden Gate bridge and Alpine mountains in pixel art, with Pingu, a crocheted plush penguin, peeking in from the right. Text: How to build systems and products that protect people in complex industries. Read the notes, adrianofontanari.com. Hashtags: product-management, ai-native-builder, digital-health, tech-risk-in-fintech, kindness, creativity-and-innovation." width="100%">
 </p>
 
 # Hi, I'm Adriano 👋
