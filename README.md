@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/adriano_fontanari_cover_2026.png" alt="Night skyline with the Golden Gate bridge and Alpine mountains, Pingu the pixel penguin, and the words Product Management, AI-native Builder, Digital Health, Tech Risk in FinTech, Kindness, Creativity &amp; Innovation." width="100%">
+  <img src="assets/adriano_fontanari_cover_2026.png" alt="Night skyline with the Golden Gate bridge and Alpine mountains, Pingu, a crocheted plush penguin in pixel art, and the words Product Management, AI-native Builder, Digital Health, Tech Risk in FinTech, Kindness, Creativity &amp; Innovation." width="100%">
 </p>
 
 # Hi, I'm Adriano 👋
